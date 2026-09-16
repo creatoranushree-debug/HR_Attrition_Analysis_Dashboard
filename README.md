@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard built with Claude to analyze employee attrition patterns across departments, roles, and demographics for a 1,470-employee workforce.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.pptx)
 
 ---
 
