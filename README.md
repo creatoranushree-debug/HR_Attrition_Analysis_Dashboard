@@ -1,8 +1,8 @@
-# HR_Attrition_Analysis_Dashboard
-Interactive Excel dashboard analyzing employee attrition trends across departments, roles &amp; demographics
 # 👥 HR Attrition Analysis Dashboard
 
 An interactive Excel dashboard built with Claude to analyze employee attrition patterns across departments, roles, and demographics for a 1,470-employee workforce.
+
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
